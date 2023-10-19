@@ -10,6 +10,7 @@ module.exports = {
         overlay: "rgba(0, 0, 0, 0.30)",
       },
       screens: {
+        "2xs": "399px",
         xs: "550px",
         md: "850px",
         xl: "1180px",
