@@ -93,8 +93,7 @@ const Hero = () => {
           <input
             type="text"
             placeholder="Search"
-            className="rounded-full w-full pl-6 pr-[68px] py-4 bg-primary outline-none text-white
-              text-base xs:text-lg placeholder-white"
+            className="rounded-full w-full pl-6 pr-[68px] py-4 2xs:bg-primary bg-gray-500 outline-none text-white text-base xs:text-lg placeholder-white"
           />
           <img
             src={searchIcon}
